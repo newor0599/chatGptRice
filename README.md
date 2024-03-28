@@ -11,7 +11,7 @@ https://github.com/newor0599/chatGptRice/assets/114163256/ad41c0da-86e6-471a-b5f
 
 
 
-You can find the background [here](https://64.media.tumblr.com/3e570496c39c50fcac1184ca5fba6004/tumblr_piwmfy6Auo1rnbw6mo1_1280.gif)
+You can find the background [here](https://waneella.tumblr.com/image/180584571782)
 
 # Installation
 ### Chrome
