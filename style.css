@@ -1,0 +1,83 @@
+/*sorry for the mess*/
+body{
+  background:url("https://64.media.tumblr.com/3e570496c39c50fcac1184ca5fba6004/tumblr_piwmfy6Auo1rnbw6mo1_1280.gif");
+  background-size:cover;
+  background-position:center;
+  background-repeat:no-repeat;
+}
+
+div.flex-1.text-base.group{
+  padding:10px;
+  border-radius:8px;
+  background:rgba(22,22,22,.5);
+  backdrop-filter:blur(3px);
+  overflow:auto;
+  box-shadow:0 0 5px 1px rgba(222,222,222,.3);
+}
+textarea{
+  background:rgba(22,22,22,.5);
+  backdrop-filter:blur(3px);
+}
+div.rounded-2xl{
+  background:none;
+}
+
+div.from-token-sidebar-surface-primary{
+  display:none;
+}
+
+ol>li>div{
+  background:none;
+}
+div.text-token-text-primary>div.font-medium{
+  background:rgba(22,22,22,.6);
+  backdrop-filter:blur(5px);
+  border-radius:10px;
+  padding: 10px;
+}
+button.btn-neutral{
+  background:none;
+  backdrop-filter:blur(5px);
+  border-radius:10px;
+  padding: 10px;
+  transition: .3s ease;
+}
+button.btn-neutral:hover{
+  background:rgba(22,22,22,.5);
+  backdrop-filter:blur(5px);
+  border-radius:10px;
+  padding: 10px;
+}
+
+div.from-token-main-surface-secondary.pl-6.pr-4.text-token-text-secondary{
+  transition: .3s ease;
+}
+
+div.flex-1.flex-col.justify-center.px-5.pt-8{
+  background:rgba(22,22,22,.5);
+  backdrop-filter:blur(5px);
+  padding: 10px;
+}
+
+div.items-center.font-semibold.bg-token-main-surface-primary{
+  background:rgba(22,22,22,.5);
+  backdrop-filter:blur(5px);
+  padding: 10px;
+}
+div[type="button"]:hover{
+  background:rgba(130,130,130,.7)
+}
+div.popover{
+  background:rgba(22,22,22,.5);
+  backdrop-filter:blur(5px);
+  padding: 10px;
+  border-radius:10px;  
+}
+
+div[role="menuitem"]:hover{
+  background: rgba(44,44,44,.7)
+}
+::selection{
+  background:#ddd;
+  color:#333;
+}
