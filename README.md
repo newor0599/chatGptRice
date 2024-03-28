@@ -2,7 +2,11 @@
 
 
 
-https://github.com/newor0599/chatGptRice/assets/114163256/8c5b05a4-4572-417b-90a5-99dddd9315b4
+
+https://github.com/newor0599/chatGptRice/assets/114163256/ad41c0da-86e6-471a-b5ff-dfb34f8f32b6
+
+
+
 
 
 
