@@ -1,0 +1,2 @@
+# chatGptRice
+Chatgpt customization
