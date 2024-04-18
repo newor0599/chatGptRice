@@ -1,9 +1,12 @@
-/*sorry for the mess*/
 body{
   background:url("https://64.media.tumblr.com/3e570496c39c50fcac1184ca5fba6004/tumblr_piwmfy6Auo1rnbw6mo1_1280.gif");
   background-size:cover;
   background-position:center;
   background-repeat:no-repeat;
+}
+
+*{
+  transition: .3s ease;
 }
 
 div.flex-1.text-base.group{
@@ -17,6 +20,7 @@ div.flex-1.text-base.group{
 textarea{
   background:rgba(22,22,22,.5);
   backdrop-filter:blur(3px);
+  transition: none;
 }
 div.rounded-2xl{
   background:none;
